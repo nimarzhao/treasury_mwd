@@ -7,7 +7,7 @@ Relevant citations:
 
 ## Instructions
 
-1. Download monthly Treasury data from CRSP (access through WRDS for example). Rename file as **crsp_raw.csv** and place in **/data**
+1. Download monthly Treasury data from CRSP (subscription required). Rename file as **crsp_raw.csv** and place in **/data**
 2. Run **clean_CRSP_TB.py** to generate **crsp_clean.csv**
 3. Register for Federal Reserve Economic Data (FRED) API key
 4. Run **clean_FRED.py** to generate **fred_clean.csv**
